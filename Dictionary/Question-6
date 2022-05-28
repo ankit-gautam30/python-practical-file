@@ -1,0 +1,3 @@
+#  Write a python program to convert two lists into a dictionary.
+keys=['Ten','Twenty','Thirty']
+valuas=[10, 20, 30]
