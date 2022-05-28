@@ -1,0 +1,7 @@
+# Write a program in python to remove duplicates from dictionary.
+temp=[]
+res=dict()
+for key,val in test_dict.items():
+    if val not in temp:
+        temp.append(val)
+        res[key]=val
