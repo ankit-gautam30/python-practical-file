@@ -1,0 +1,6 @@
+# Write a program in python to check dictionary is empty or not.
+myDict={}
+if not myDict:
+    print('The dictionary is empty.')
+else:
+    print('Tghe dictionary is not empty.')
