@@ -1,0 +1,6 @@
+# Write a python program to sort a dictionary by key.
+color_dict={'red':'#FF0000',
+            'green':'#008000',
+            'white':'#FFFFFF'}
+key in sorted(color_dict):
+print("%s: %s" %(key,color_dict[key]))
